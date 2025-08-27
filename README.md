@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there!
 
-<!--
-**mcyc/mcyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a data scientist** in Toronto, Ontario, with 8+ years of experience translating complex data into actionable insights. As a former PhD astrophysicist, I specialize in causal inference, optimization, machine learning, and data storytelling.
 
-Here are some ideas to get you started:
+### Featured Projects
+- [**Flight Price Prediction**](https://github.com/mcyc/predictive-ml/tree/main/flight-price): An XGBoost-based model for forecasting airline ticket prices using custom feature engineering.
+- [**MUFASA**](https://github.com/mcyc/mufasa): An automated ML solution for modeling 3D spectral imaging data in astrophysics.
+- [**CRISPy**](https://github.com/mcyc/crispy): A Python package for identifying density ridges in N-dimensional images using unsupervised ML.
+- [**InsightAtlas**](https://github.com/mcyc/InsightAtlas): A geospatial dashboard for behavioral segmentation and neighborhood ranking across Canada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- **Programming**: Python (pandas, scikit-learn), SQL  
+- **Machine Learning**: XGBoost, Random Forest, Clustering  
+- **Deployment**: Docker, Git, distributed computing (Dask)
