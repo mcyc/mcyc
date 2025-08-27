@@ -12,3 +12,6 @@
 - **Programming**: Python (pandas, scikit-learn), SQL  
 - **Machine Learning**: XGBoost, Random Forest, Clustering  
 - **Deployment**: Docker, Git, distributed computing (Dask)
+
+### Publications
+- **NASA ADS**: [Lead Author](https://ui.adsabs.harvard.edu/user/libraries/Gvd8AR1IQFWtmEels18vtQ) - [Contributing Author](https://ui.adsabs.harvard.edu/user/libraries/Hz2uVYOVQzyIGvzyJ3gJGg)
